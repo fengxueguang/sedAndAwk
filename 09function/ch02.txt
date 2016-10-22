@@ -1,0 +1,11 @@
+.Se 2 Unerstanding Basic Operations
+.Ah Awk, by Sed and Grep. out of Ed
+.Ah Command-line Syntax
+.Bh Scriptiong
+.Bh Sample Mailing List
+.Ah Using Sed
+.Bh Specifying Simple Instructions
+.Bh Script Files
+.Ah Using Awk
+.Ah Using Sed and Awk Tocether
+

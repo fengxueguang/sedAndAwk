@@ -1,0 +1,10 @@
+AR stands for System Activity Report, :as its name suggest: sar command is used
+to collect,report & save CPU, Memory, I/O usage in Unix like operating system.
+SAR command produce the reports on the fly and can also save the reports in
+the log files as well.
+
+In this article we will discuss different examples of SAR Command in CentOS  7
+& RHEL 7, in case sar is not installed on your system then use the below
+command to install it.
+
+[root@localhost ~]# yum install sysstat

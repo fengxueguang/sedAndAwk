@@ -1,0 +1,3 @@
+All data is captured in binary form and saved to a file (datafile). The data can then be selectively displayed with the sar command using the -f option. Set the interval and count parameters to select count records at interval second intervals. If the count parameter is not set, all the records saved in the file will be selected. Collection of data in this manner is useful to characterize system usage over a period of time and determine peak usage hours.@date
+
+Note: The sar command only reports on local activities.

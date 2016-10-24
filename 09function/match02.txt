@@ -1,0 +1,6 @@
+Awk scans each input file for lines that match any of a set of patterns specified literally in prog or in one or more files specified as -f progfile.  With
+each pattern there can be an associated action that will be performed when a line of a file matches the pattern.  Each line is matched against the  pattern
+portion  of  every  pattern-action  statement; the associated action is performed for each matched pattern.  The file name - means the standard input.  Any
+file of the form var=value is treated as an assignment, not a filename, and is executed at the time it would have been opened if it were a  filename.   The
+option -v followed by var=value is an assignment to be done before prog is executed; any number of -v options may be present.  The -F fs option defines the
+input field separator to be the regular expression fs.

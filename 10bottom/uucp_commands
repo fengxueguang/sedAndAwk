@@ -1,0 +1,4 @@
+UUCP Status Menu
+Look at files in /data/git:find /data/git/ -print
+Look at recent status in git sh setup:tail /root/soft/git-2.10.0/Documentation/git-sh-setup.txt
+Look for lock files: ls /root/soft/git-2.10.0
